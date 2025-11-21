@@ -1,0 +1,6 @@
+students = {"Alice": 85, "Bob": 92, "Charlie": 78}
+print(students)
+print("Alice's grade:", students["Alice"])
+students["David"] = 88
+del students["Charlie"]
+print("Updated students:", students)
