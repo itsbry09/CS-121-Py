@@ -1,0 +1,13 @@
+
+import math
+
+text = "hello world"
+print(text.upper())
+print(text.lower())
+print(text.title())
+print("Length:", len(text))
+
+number = 25.7
+print("Round:", round(number))
+print("Ceil:", math.ceil(number))
+print("Floor:", math.floor(number))
