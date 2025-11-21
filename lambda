@@ -1,0 +1,4 @@
+square = lambda x: x**2
+add_ten = lambda x: x + 10
+print("Square of 5:", square(5))
+print("5 + 10 =", add_ten(5))
